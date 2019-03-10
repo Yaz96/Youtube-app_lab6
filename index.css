@@ -1,0 +1,33 @@
+.Video{
+    width: 100%;
+  background-color: whitesmoke;
+  padding: 20px 20px;
+}
+
+.Extra {
+    
+    margin: 10px 30px 30px 30px ;
+    float: left;
+    width: 24.99999%;
+    height: 300px;
+  }
+
+  a {
+    text-decoration : none;
+    color: black;
+  }
+
+  .videoName{
+      padding:5px;
+
+  }
+
+
+  .Botones{
+      position: fixed;
+      text-align:  center;
+      bottom: 0px;
+      width:100%;
+  }
+
+ 
